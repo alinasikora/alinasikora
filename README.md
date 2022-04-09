@@ -1,3 +1,10 @@
+-Crypto exchange: http://asikora.zzz.com.ua/Documents
+Plugins, I used:
+https://store.blocksera.com/products/cryptocurrency-widgets-pack/
+https://cryptocurrencyplugins.com/demo/#cryptocurrency-widgets-pro
+https://currencyrate.today/exchangerates-widget
+Theme: https://crocoblock.com/kava/?ref=668
+
 - 👋 Hi, I’m @alinasikora
 - 👀 I’m interested in Blockchain Technoology
 - 🌱 I’m currently learning FrontEnd
