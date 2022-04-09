@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning FrontEnd
 - 💞️ I’m looking to collaborate on projects/firms which can help me to develop in this
 - 📫 How to reach me alya.sikora@gmail.com
+-
 
 <!---
 alinasikora/alinasikora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
